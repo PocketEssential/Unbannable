@@ -1,5 +1,5 @@
-name: Unbannable
-main: PocketEssential\Unbannable\Main
+name: Unbanable
+main: PocketEssential\Unbanable\Main
 version: 1.0.0
 api: 3.0.1
 author: PocketEssential
